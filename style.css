@@ -278,6 +278,28 @@ p{
     margin-top: 10px;
 }
 
+.rescont{
+    text-align: center;
+    border: 3px solid black;
+    margin: 15px 180px;
+}
+
+.resdetails h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-left: 100px;
+    margin-top: 38px;
+}
+.resdetails p{
+    margin-left: 100px;
+}
+
+.highlight{
+    display: flex;
+    align-items: center;
+    margin-left: 101px;
+}
+
 @media screen and (max-width: 1055px) {
     .devpic{
         display: none;
